@@ -1,8 +1,4 @@
-**PranavKotawar2001/PranavKotawar2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=160&section=header&text=Hey,%20I'm%20Pranav%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
@@ -18,13 +14,19 @@ Here are some ideas to get you started:
 
 ### 🙋 About Me
 
-I'm a **DevOps Engineer & Cloud Enthusiast** currently working as a **DevOps Intern** and focusing on building scalable cloud infrastructure and automating deployments using modern DevOps tools.
+I'm a **DevOps Engineer Intern & Cloud Enthusiast** with hands-on experience building, deploying, and managing **cloud-native applications in production-like environments**.
 
-- 🔧   Working with **Docker, Kubernetes & Terraform**
-- ☁️   Deploying infrastructure on **AWS** — EC2, VPC, S3, IAM, RDS, EKS
-- 🔁   Building **CI/CD pipelines using Jenkins**
-- 🐧   Comfortable with **Linux & Bash scripting**
-- 📖   Currently learning: **Helm, Prometheus, Grafana, ArgoCD**
+* ☁️ Working with **AWS Cloud Services** — EC2, VPC, S3, IAM, RDS, EKS
+* 🐧 Strong experience in **Linux system administration and Bash scripting**
+* 🔧 Managing **Infrastructure as Code using Terraform** for automated cloud provisioning
+* 🐳 Containerizing applications using **Docker** and orchestrating them with **Kubernetes**
+* 🔁 Designing and maintaining **CI/CD pipelines using Jenkins** for automated build, test, and deployment
+* 📦 Deploying and managing **3-tier application architectures** following DevOps best practices
+* 📊 Implementing **monitoring, logging, and alerting using Datadog** to ensure system reliability
+* 🔍 Integrating **code quality and security analysis using SonarQube** in CI/CD pipelines
+* 🔗 Using **Git & GitHub** for version control and collaboration
+* 🚀 Continuously learning modern DevOps tools and practices to improve **automation, scalability, and system performance**
+
 
 ---
 
@@ -99,12 +101,3 @@ _Automate everything. Version control everything. Monitor everything._
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
