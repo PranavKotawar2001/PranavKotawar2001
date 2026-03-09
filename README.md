@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 **PranavKotawar2001/PranavKotawar2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -110,4 +107,4 @@ _Automate everything. Version control everything. Monitor everything._
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
